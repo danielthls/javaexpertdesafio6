@@ -46,7 +46,7 @@ public class MovieControllerRA {
 		
 		postMovieInstance = new HashMap<>();
 		postMovieInstance.put("title", "My Movie");
-		postMovieInstance.put("score", 6.9);
+		postMovieInstance.put("score", 4.7);
 		postMovieInstance.put("count", 3);
 		postMovieInstance.put("image", "https://www.themoviedb.org/t/p/w533_and_h300_bestv2/jBJWaqoSCiARWtfV0GlqHrcdidd.jpg");
 		
